@@ -1,4 +1,0 @@
-<?PHP
-
-print "hello";
-?>
